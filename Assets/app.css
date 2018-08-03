@@ -1,0 +1,13 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+div#container{
+margin: 0 auto;
+max-width: 300px;
+border: 2px solid gray;
+}
+.completed{
+    text-decoration: line-through;
+    color: gray;
+}
